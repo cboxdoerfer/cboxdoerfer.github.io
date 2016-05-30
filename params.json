@@ -1,1 +1,7 @@
-{"name":"Wanders World","tagline":"Open Source Software and More","body":"### DeaDBeeF Plugins\r\n\r\n* [Waveform Seekbar](http://projects.wandersworld.org/ddb_waveform_seekbar/)\r\n* [Musical Spectrum](http://projects.wandersworld.org/ddb_musical_spectrum/)\r\n* [Spectrogram](http://projects.wandersworld.org/ddb_spectrogram/)\r\n* [Replay Gain Control](http://projects.wandersworld.org/ddb_replaygain_control/)\r\n* [Playback Order](http://projects.wandersworld.org/ddb_playback_order/)\r\n* [Quick Search](http://projects.wandersworld.org/ddb_quick_search/)","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Christian Boxdörfer",
+  "tagline": "Open Source Software and More",
+  "body": "### Applications\r\n* [FSearch](https://cboxdoerfer.github.io/fsearch)\r\n\r\n### DeaDBeeF Plugins\r\n* [Waveform Seekbar](https://cboxdoerfer.github.io//ddb_waveform_seekbar/)\r\n* [Musical Spectrum](https://cboxdoerfer.github.io//ddb_musical_spectrum/)\r\n* [Spectrogram](https://cboxdoerfer.github.io//ddb_spectrogram/)\r\n* [Replay Gain Control](https://cboxdoerfer.github.io//ddb_replaygain_control/)\r\n* [Playback Order](https://cboxdoerfer.github.io//ddb_playback_order/)\r\n* [Quick Search](https://cboxdoerfer.github.io//ddb_quick_search/)",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
