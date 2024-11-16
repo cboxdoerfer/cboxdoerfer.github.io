@@ -14,8 +14,8 @@
 Die Vorgaben von § 5 TMG sind durch die folgenden Angaben erfüllt:
 
 Christian Hans Boxdörfer  
-Platanenhof 4  
-47053 Duisburg
+Schweizer Str. 7  
+47058 Duisburg
 
 ##### Kontakt
 
